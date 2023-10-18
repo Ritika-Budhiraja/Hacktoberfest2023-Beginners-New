@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+#### Name: [Ritika Budhiraja](https://www.linkedin.com/in/ritika-budhiraja-)
+
+- Place: New Delhi, DELHI, India
+- Bio: Teh Enthusiast who is learning and exploring different fields | Data Scientist
+- GitHub: [Ritika-Budhiraja](https://github.com/Ritika-Budhiraja)
